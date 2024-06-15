@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="produse.xsd">
+    <product>
+        <id>1</id>
+        <image>./assets/img_produse/ad4d641f7005a08abd003ed0db4cbab72.jpg</image>
+        <name>Blair Hair Bow</name>
+        <price>4.99</price>
+        <color>Ivory</color>
+        <description>If Blair Waldorf were a bride, we imagine she would be loving this bow. Made of soft tulle and covered in pearls, our Blair bow is where fun &amp; flirty meets preppy. *Comes with a metal clip in the back for an easy, secure hold. Dimensions: 9' wide, 16' lon</description>
+    </product>
+    <product>
+        <id>2</id>
+        <image>./assets/img_produse/db8b00c234d16a4a783012d5d6eb17693.jpg</image>
+        <name>Insanely Chic</name>
+        <price>5.25</price>
+        <color>Pink</color>
+        <description>With the comeback of many 90s trends, excessive accessorizing is the new normal. From cloud-like scrunchies to elegant pearl clips, you can give even the most basic hairstyle a fabulous twist.</description>
+    </product>
+    <product>
+        <id>3</id>
+        <image>./assets/img_produse/dc438f3ea2086dd03560f7e34866431e4.jpg</image>
+        <name>Break the rutine</name>
+        <price>3.5</price>
+        <color>Multicolor</color>
+        <description>Embroidered floral mesh bow with long tail design - Width: 4cm, Length: 21cm, Material: Polyester &amp; Meta</description>
+    </product>
+    <product>
+        <id>4</id>
+        <image>./assets/img_produse/0a8cdcd0ccd5d18f08012258181b9e805.jpg</image>
+        <name>Soft Days</name>
+        <price>3.6</price>
+        <color>White</color>
+        <description>Perfect for sunny days and picnics. Goes well with spring flowers and a smile =D Width: 11 cm, Length: 8 cm </description>
+    </product>
+    <product>
+        <id>5</id>
+        <image>./assets/img_produse/71a27d8973f4e56d666d50c4e5c66fe86.jpg</image>
+        <name>Autumn Vibe</name>
+        <price>3.5</price>
+        <color>Brown</color>
+        <description>Trendy and elegant, perfect for daily wear. Width: 11 cm, Length: 9 cm</description>
+    </product>
+    <product>
+        <id>6</id>
+        <image>./assets/img_produse/5fd721dbe624292381399a0e1924031a7.jpg</image>
+        <name>Amy Crystal Bow</name>
+        <price>9.99</price>
+        <color>Black</color>
+        <description>Our most popular Amy Bow gets an upgrade with a delicate scattering of hand-applied Swarovski crystal stones, serving up all the sparkly silky feels. Width:15 cm, Length: 30cm</description>
+    </product>
+    <product>
+        <id>7</id>
+        <image>./assets/img_produse/c2737ddc8bfb46b307d70ccdf90b96468.jpg</image>
+        <name>Lavender dream</name>
+        <price>4.77</price>
+        <color>Purple</color>
+        <description>You know that lavender helps with stress, and besides it has a gorgeous color. You will feel like you are in the boundless fields of lavender in France when you wear it. Width: 12 cm, Length: 27 cm</description>
+    </product>
+    
+<product><id>9</id><image>./assets/img_produse/835ea90b6ad37880c4efaf1744a77613about1_1.png</image><name>test</name><price>33333</price><color>bej</color><description>draguta</description></product><product><id>10</id><image>./assets/img_produse/b88389389b5ccfcc6089306836f6c22cbg.jpg</image><name>test dupa xml schema</name><price>777</price><color>mai multe</color><description>brodate</description></product></products>

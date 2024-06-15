@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Desenăm elipsa -->
+    <ellipse cx="100" cy="100" rx="80" ry="50" fill="#fffdd0" stroke="#8b4513" stroke-width="2"/>
+
+    <!-- Desenăm fundița roz -->
+    <path d="M 60,100 C 70,80 90,80 100,100 C 110,80 130,80 140,100
+             C 130,120 110,120 100,100 C 90,120 70,120 60,100 Z"
+          fill="#ffc0cb" stroke="#8b4513" stroke-width="2"/>
+    <!-- Nodul central al fundiței -->
+    <circle cx="100" cy="100" r="5" fill="#8b4513"/>
+</svg>

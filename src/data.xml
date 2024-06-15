@@ -1,0 +1,23 @@
+<list>
+    <listitem>
+        <hyperlink>
+            <url>http://www.google.com</url>
+            <name>Google</name>
+            <target>_blank</target>
+        </hyperlink>
+    </listitem>
+    <listitem>
+        <hyperlink>
+            <url>http://www.uaic.ro</url>
+            <name>UAIC</name>
+            <target>_blank</target>
+        </hyperlink>
+    </listitem>
+    <listitem>
+        <hyperlink>
+            <url>http://www.yahoo.com</url>
+            <name>Yahoo</name>
+            <target>_blank</target>
+        </hyperlink>
+    </listitem>
+</list>

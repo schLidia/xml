@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <id>1</id>
+        <username>lidia</username>
+        <password>$2y$10$.1uH1usI9FpP.4aiR9219.nwhS3ZgTm73NXiB7gR1IfKg0mdxScjC</password>
+    </user>
+    <user>
+        <id>2</id>
+        <username>daniela</username>
+        <password>$2y$10$MJ8uVyo3OcaA8fZNjlmmh.hhFpIzgJ6.d.iJM7rePBy0w7LyV7q7u</password>
+    </user>
+    <user>
+        <id>3</id>
+        <username>aladin</username>
+        <password>$2y$10$EwdTvJXzFfkoZKT8jVdUVuw1QW.VYOhI6oLvuBV6ZMOh7fWpS5xjG</password>
+    </user>
+    <user>
+        <id>4</id>
+        <username>sara</username>
+        <password>$2y$10$lIblSSaFdCI1ajRS967lterNMFHAGdZYrwHXjmYCYj3mn7Xs.7Ge6</password>
+    </user>
+    <user>
+        <id>5</id>
+        <username>ana</username>
+        <password>$2y$10$XO0cnUzh0QigQiez6mMInerUfIYcu7lbz9ib87CTZ5LFnc2iJDOWu</password>
+    </user>
+    <user>
+        <id>6</id>
+        <username>adelina</username>
+        <password>$2y$10$2Ugv8R6tpumW8POfCy6EC.DWmgY8dKgmMGy0A0gmJk/LlubqI10TS</password>
+    </user>
+    <user>
+        <id>7</id>
+        <username>denisa</username>
+        <password>$2y$10$nuFdscoUEpTmdscxXMCdweC56CybGtsOiWPgh0K9ZRSzWEvf/q1ma</password>
+    </user>
+<user><id>8</id><username>anca</username><password>$2y$10$boS.dYDJ7MRIzWCwiLisjuTd7IkmhSmuQgqtDUku./7a8Cz9zF2eW</password></user><user><id>9</id><username>barbie</username><password>$2y$10$SGzjeraYpwHbwkn7Uyd6j.E1PNxSGLZrJJBC8bGVSxWwyGop2MlKS</password></user></users>
